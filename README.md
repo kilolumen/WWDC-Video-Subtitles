@@ -6,3 +6,9 @@ I use VLC or other video players to create a playlist and randomly loop the vide
 WWDC 2017 files are processing now.
 
 If you need to download the videos and PDFs, check out this project https://github.com/ohoachuck/wwdc-downloader
+
+
+##Update
+
+[WWDC Mac App](https://github.com/insidegui/WWDC)
+[WWDC Subtitles Downloader](https://github.com/PizzaLiu/WWDC_Subtitle)
