@@ -11,4 +11,5 @@ If you need to download the videos and PDFs, check out this project https://gith
 ##Update
 
 [WWDC Mac App](https://github.com/insidegui/WWDC)
+
 [WWDC Subtitles Downloader](https://github.com/PizzaLiu/WWDC_Subtitle)
